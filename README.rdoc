@@ -1,0 +1,5 @@
+==Marketing Web Site for Ribbit - mobile application allowing users to send video and photo messsages which can be destroyed once viewed. 
+
+This prototype of the marketing site uses Foundation as a fron-end framework.
+
+Built using tutorials from http://teamtreehouse.com 
